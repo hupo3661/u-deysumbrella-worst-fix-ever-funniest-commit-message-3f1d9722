@@ -9,7 +9,9 @@ written by a program to `/output/entry.txt`.
 
 The entry is a single line of at most 100 characters, in plain
 commit-subject voice — a fix for duplicate charges that "solves" the
-problem by charging every user twice, and calls that fair.
+problem by charging every user twice, on purpose:
+
+> fix: end duplicate charges by charging everyone twice, on purpose
 
 ## Run
 
